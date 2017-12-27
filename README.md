@@ -1,2 +1,2 @@
 # android
-Coursera android apps
+Daily camera recordings android apps
